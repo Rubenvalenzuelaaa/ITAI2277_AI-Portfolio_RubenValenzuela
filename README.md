@@ -30,7 +30,12 @@ The goal is to showcase my learning progress, technical skills, and ability to b
     and descriptive statistics to understand patterns within the course documents.
 
 
-- Phase 03 – Working AI Model  
+- [Phase 03 – Working AI Model](Phase03_Working_Model/)
+  - Development, evaluation, and optimization of the retrieval-augmented AI model for the **AI Course Copilot**.
+    This phase includes architecture design, embedding configuration, chunking strategy, performance evaluation,
+    error analysis, and iterative improvements over baseline methods.
+    Key components include BM25 vs dense retrieval comparison, reranker experiments, and generation quality testing.
+
 - Phase 04 – Integrated System Prototype  
 - Phase 05 – Final Delivery  
 
