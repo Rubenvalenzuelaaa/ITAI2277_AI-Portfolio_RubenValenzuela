@@ -11,8 +11,9 @@ The goal is to showcase my learning progress, technical skills, and ability to b
 
 ## Repository Structure
 
-- `module01_reflective_journal/`  
-  Reflective journal for **Module 01 – Introduction to AI**, connecting class slides with my own insights.
+- [Module 01 – Reflective Journal](Module01/)
+  - Reflective journal for **Introduction to AI**, connecting class slides with my own insights.
+
 
 - `module02_basic_python/`  
   Basic Python programming exercises and notebooks.
