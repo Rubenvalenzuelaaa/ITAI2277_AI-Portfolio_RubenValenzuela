@@ -36,7 +36,9 @@ The goal is to showcase my learning progress, technical skills, and ability to b
     error analysis, and iterative improvements over baseline methods.
     Key components include BM25 vs dense retrieval comparison, reranker experiments, and generation quality testing.
 
-- Phase 04 – Integrated System Prototype  
+- [Phase 04 – Integrated System Prototype](Phase04_System_Prototype/)
+  - End-to-end functional prototype for the **AI Course Copilot**, including sentence-transformer embeddings, FAISS index, retrieval pipeline, and a Gradio user interface for testing the assistant in real time.
+
 - Phase 05 – Final Delivery  
 
 
