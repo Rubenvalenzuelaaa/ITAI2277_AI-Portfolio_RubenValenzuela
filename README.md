@@ -15,8 +15,9 @@ The goal is to showcase my learning progress, technical skills, and ability to b
   - Reflective journal for **Introduction to AI**, connecting class slides with my own insights.
 
 
-- `module02_basic_python/`  
-  Basic Python programming exercises and notebooks.
+- [Module 02 – Basic Python Programming](Module02/)
+  - Exercises covering file I/O, strings, async, HTTP requests, SQLite, NumPy, and Pandas
+
 
 - `phase01_project_proposal/`  
   Project proposal for the **AI Course Copilot – RAG-Powered Study & Project Assistant**.
