@@ -39,7 +39,25 @@ The goal is to showcase my learning progress, technical skills, and ability to b
 - [Phase 04 – Integrated System Prototype](Phase04_System_Prototype/)
   - End-to-end functional prototype for the **AI Course Copilot**, including sentence-transformer embeddings, FAISS index, retrieval pipeline, and a Gradio user interface for testing the assistant in real time.
 
-- Phase 05 – Final Delivery  
+- **[phase05_final_delivery/](Phase05_Final_Delivery/)**
+  - Complete final project delivery for the **AI Course Copilot – RAG Prototype**, including:
+    - **Google Colab notebook** containing:
+      - Working RAG model  
+      - Retrieval pipeline (FAISS)  
+      - Embedding generation  
+      - Re-ranking and answer generation  
+      - Gradio user interface prototype  
+      - Instructions for running the system  
+    - **Technical Report (Phase 05)** summarizing:
+      - System architecture  
+      - Model evaluation  
+      - Final performance insights  
+      - Limitations and next steps  
+    - **Final Presentation (POP AI)** showing:
+      - Problem overview  
+      - Methodology  
+      - Results and demo  
+      - Team contributions  
 
 
 ---
