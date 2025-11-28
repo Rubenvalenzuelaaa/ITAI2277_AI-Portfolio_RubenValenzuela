@@ -19,20 +19,21 @@ The goal is to showcase my learning progress, technical skills, and ability to b
   - Exercises covering file I/O, strings, async, HTTP requests, SQLite, NumPy, and Pandas
 
 
-- `phase01_project_proposal/`  
-  Project proposal for the **AI Course Copilot – RAG-Powered Study & Project Assistant**.
+- [Phase 01 – Project Proposal](Phase01_Project_Proposal/)
+  - Project proposal for the **AI Course Copilot – RAG-Powered Study & Project Assistant**.  
+    This phase outlines the problem definition, target users, proposed solution, system goals,  
+    and high-level architecture. It establishes the foundation for the entire capstone project.
 
-- `phase02_data_pipeline_eda/`  
-  Data pipeline design, preprocessing steps, and exploratory data analysis for the project.
+- [Phase 02 – Data Pipeline & EDA](Phase02/)
+  - Data pipeline design, preprocessing workflow, feature engineering, and exploratory data analysis.  
+    Includes data acquisition, cleaning steps, semantic chunking, embedding generation,  
+    and descriptive statistics to understand patterns within the course documents.
 
-- `phase03_working_model/`  
-  Retrieval and RAG model experiments, evaluation metrics, and comparison against the BM25 baseline.
 
-- `phase04_system_prototype/`  
-  Integrated Gradio-based prototype of the AI Course Copilot.
+- Phase 03 – Working AI Model  
+- Phase 04 – Integrated System Prototype  
+- Phase 05 – Final Delivery  
 
-- `phase05_final_delivery/`  
-  Final project package: user guide, technical report, and presentation resources.
 
 ---
 
